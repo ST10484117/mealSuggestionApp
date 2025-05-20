@@ -31,7 +31,7 @@ The mealSuggestionApp is a mobile application developed as part of an assignment
 ### Purpose:
 The main goal of this app is to suggest a meal idea for the user when they input the time. 
 
-### Key Features:
+ Key Features:
 - Feature 1: it converst the user input to lowercase
 - Feature 2: it handles error when the users input is wrong and tells the user theres a error
 - Feature 3: it outputs meal ideas when the user put in the time of day
